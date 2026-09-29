@@ -5,3 +5,4 @@ COnflict resolved
 Remote 4444444444444444444444444
 Github 55555555555555555555555555555
 New line
+New line from git
